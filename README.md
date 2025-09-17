@@ -1,2 +1,2 @@
 # projeto-organizador-arquivos
-projeto simples de organização de arquivos em pastga
+projeto simples em python de organização de arquivos em pasta
